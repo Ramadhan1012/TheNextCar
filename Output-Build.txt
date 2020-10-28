@@ -1,0 +1,3 @@
+﻿1>------ Rebuild All started: Project: TheNextCar, Configuration: Debug Any CPU ------
+1>TheNextCar -> D:\2851\Pemrograman Lanjut 2020\TheNextCar\TheNextCar\TheNextCar\bin\Debug\netcoreapp3.1\TheNextCar.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
